@@ -42,7 +42,7 @@ Representan la estructura sin estilos visuales.
  
     ### 🧭 Site Map (Mapa de Navegación) <[SiteMapa](https://mermaid.live/edit#pako:eNqFk0Fv0zAUx7_Kk6VJQ-pKmqZNiTSk1MkgUttUzYQQCwcr8VKLxq5cVxo0PXDmsEnbBS7AZ-DCiUu_CV8APgKJS7vSSTQHy37v-f_7v8hvgRKRUuSgTJLpGHqjmB8dAXhM0iRhq2_cKWNwCj16qUAJGLFsrGKuq071B4PQCyMYjoIBDoZuz4_-JmLuHl_8_nz9BQLOEiZeP4p5t4rc_ABM1OrrRGQCUgp9MkuEIrOqAFcFtx_gjCVjspOscl6Vu7uBnsgYh8cwohmbKamF_eOLn58-_vp-DUPC6QTcNGe8ypJUyKpg1zEOB_7LoFwi8PzI8yEYBDgI733DycnTYmOrJL2gcuuygO6mYs8IkTktwDvAwu756n0vfHaP62qx9U8qwN0EtLrWW5_xhCVA-cZIAfgA6SzAz91yD303wuG5uwXifSD-p2HdId7z8F9S2U4w2Mp7-_LeQ_mdGiIhorPqrRXgHwC5Xn8H5O-D_Icgf9OHmCvdCKqVb52lyLkkkxmtoZzKnFRntIg5QIzUmOY0Rk65TYl8E6OYL8tLU8JfCZEjR8l5eU2KeTbeisynKVHUY6Qco3wblZSnVGIx5wo5pm1pEeQs0BVyGoZd77Qt-0mz1Wo2LKNp1tBb5LTNutUxGw3DsJqW3bbayxp6p7FG3bYty7AaRqdlWk3TLOVoypSQ_fUE60Fe_gEDgzMu)>
 - 🖼️ Imagen:  
-  ![Site Map](SiteMap/Mapa_Navegacion.png)
+  ![Site Map](SiteMap/mermaid-diagram-2025-11-01-181001.png)
 
 ## Creado por
 - William Javier Amaya Castaño
