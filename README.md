@@ -1,2 +1,13 @@
-# PlataformaParaLaGesti-nDeAdopci-nYCuidadoDeMascotas
-Este proyecto busca diseñar una plataforma web que centralice la gestión de adopciones y el cuidado de mascotas, brindando un espacio digital confiable y fácil de usar para cualquier usuario.
+# Plataforma para la gestión de adopción y cuidado de mascotas
+Proyecto académico desarrollado para la materia Análisis y Diseño de Sistemas.
+
+## Fases del proyecto
+- Planeación y análisis (Actividad 1)
+- Diseño y prototipado (Actividad 2)
+
+## Enlaces importantes
+- [Prototipo en Figma]
+- [Wireframes de baja fidelidad]
+
+## Creado por
+- William Javier Amaya Castaño
