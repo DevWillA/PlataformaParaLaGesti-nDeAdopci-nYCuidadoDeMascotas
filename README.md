@@ -12,19 +12,19 @@ Proyecto académico desarrollado para la materia Análisis y Diseño de Sistemas
 Los siguientes wireframes representan la estructura inicial de la plataforma antes del diseño visual final.
 
 ### Página de inicio
-![Wireframe Inicio](Prototipos_BajaFidelidad/Wireframe_Inicio.png)
+![Wireframe Inicio](WireFrame/wireframe_1_p_gina_de_inicio.png)
 
 ### Catálogo de mascotas
-![Wireframe Catalogo](Prototipos_BajaFidelidad/Wireframe_Catalogo.png)
+![Wireframe Catalogo](WireFrame/wireframe_2_cat_logo_de_mascotas.png)
 
 ### Ficha de mascota
-![Wireframe Ficha](Prototipos_BajaFidelidad/Wireframe_Ficha.png)
+![Wireframe Ficha](WireFrame/wireframe_3_ficha_de_mascota.png)
 
 ### Registro / Login
-![Wireframe Registro](Prototipos_BajaFidelidad/Wireframe_Registro.png)
+![Wireframe Registro](WireFrame/wireframe_4_registro___login.png)
 
 ### Panel administrativo
-![Wireframe Admin](Prototipos_BajaFidelidad/Wireframe_Admin.png)
+![Wireframe Admin](WireFrame/wireframe_5_panel_administrativo.png)
 
 
 ## Creado por
