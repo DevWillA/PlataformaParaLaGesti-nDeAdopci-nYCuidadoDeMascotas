@@ -34,7 +34,7 @@ Representan la estructura sin estilos visuales.
 ### 💎 Prototipos – Alta fidelidad (Figma)
 - 🌐 **Prototipo navegable (Figma):** <[FIGMA](https://www.figma.com/design/SvMxgvIB6WlYhpQo64TOoU/Prototipo-Alta-Fidelidad-%E2%80%93-Adopci%C3%B3n-de-Mascotas?node-id=1-4&t=O96D6RW3sQh6Y8JB-1)>
 - Capturas:
-  - ![Alta Inicio](Prototipos_AltaFidelidad/Alta_Inicio.png)
+  - ![Alta Inicio](WireFrame/Alta_Fidelidad/Inicio.png)
   - ![Alta Catálogo](Prototipos_AltaFidelidad/Alta_Catalogo.png)
   - ![Alta Ficha](Prototipos_AltaFidelidad/Alta_Ficha.png)
   - ![Alta Login](Prototipos_AltaFidelidad/Alta_Login.png)
