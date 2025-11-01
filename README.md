@@ -31,8 +31,8 @@ Los siguientes wireframes representan la estructura inicial de la plataforma ant
 
 Los siguientes wireframes representan la estructura inicial de la plataforma antes del diseño visual final.
 
-### Página de inicio
-![Wireframe Inicio](WireFrame/Alta Fidelidad/Inicio.png)
+### Página de inicio Alta
+![Wireframe Inicio Alta](WireFrame/Alta Fidelidad/Inicio.png)
 
 ### Catálogo de mascotas
 ![Wireframe Catalogo](WireFrame/Alta Fidelidad/Mascotas.png)
