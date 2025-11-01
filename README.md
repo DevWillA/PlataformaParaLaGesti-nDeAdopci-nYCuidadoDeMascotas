@@ -32,19 +32,19 @@ Los siguientes wireframes representan la estructura inicial de la plataforma ant
 Los siguientes wireframes representan la estructura inicial de la plataforma antes del diseño visual final.
 
 ### Página de inicio
-![Wireframe Inicio](WireFrame/wireframe_1_p_gina_de_inicio.png)
+![Wireframe Inicio](WireFrame/Alta Fidelidad/Inicio.png)
 
 ### Catálogo de mascotas
-![Wireframe Catalogo](WireFrame/wireframe_2_cat_logo_de_mascotas.png)
+![Wireframe Catalogo](WireFrame/Alta Fidelidad/Mascotas.png)
 
 ### Ficha de mascota
-![Wireframe Ficha](WireFrame/wireframe_3_ficha_de_mascota.png)
+![Wireframe Ficha](WireFrame/Alta Fidelidad/Ficha Mascota.png)
 
 ### Registro / Login
-![Wireframe Registro](WireFrame/wireframe_4_registro___login.png)
+![Wireframe Registro](WireFrame/Alta Fidelidad/Login.png)
 
 ### Panel administrativo
-![Wireframe Admin](WireFrame/wireframe_5_panel_administrativo.png)
+![Wireframe Admin](WireFrame/Alta Fidelidad/Admin.png)
 
 ## Creado por
 - William Javier Amaya Castaño
