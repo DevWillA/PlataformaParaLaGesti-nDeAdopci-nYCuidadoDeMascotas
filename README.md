@@ -3,7 +3,7 @@ Proyecto académico desarrollado para la materia Análisis y Diseño de Sistemas
 
 ## Fases del proyecto
 - ## Documentación
-- [Actividad 1 – Identificación del proyecto](Documentacion/Actividad1_Identificar_Proyecto.pdf)
+- [Actividad 1 – Identificación del proyecto](Documentacion/Actividad1_Identificar_Proyecto.pdf.pdf)
 - Diseño y prototipado (Actividad 2)
 
 ## Enlaces importantes
