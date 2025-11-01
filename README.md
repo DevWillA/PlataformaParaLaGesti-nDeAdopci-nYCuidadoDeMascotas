@@ -5,17 +5,17 @@ Proyecto académico desarrollado para la materia Análisis y Diseño de Sistemas
 - ## Documentación
 - [Actividad 1 – Identificación del proyecto](Documentacion/Actividad1_Identificar_Proyecto.pdf.pdf)
 - 📌 **Mapa de interés e influencia:** <[Mapa Interes](https://www.canva.com/design/DAG01m3UXJg/41jSDtNOKFAuciJnx1CH5w/view?utm_content=DAG01m3UXJg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h33c54577d7)>
-- <img width="994" height="541" alt="image" src="https://github.com/user-attachments/assets/81d76ee4-d9fa-4bb9-8589-2c3159773df8" />
+  <img width="994" height="541" alt="image" src="https://github.com/user-attachments/assets/81d76ee4-d9fa-4bb9-8589-2c3159773df8" />
 - ⚠️ **Matriz de riesgos:**  
-- <img width="768" height="209" alt="image" src="https://github.com/user-attachments/assets/aed14c65-f3e8-43d2-a266-6e20da47f84d" />
-- 🔁 **Diagrama(s) de flujo (Actividad 1):**  <[DDiagrama](https://www.mermaidchart.com/play?utm_source=mermaid_live_editor&utm_medium=toggle#pako:eNpdlM-O0zAQh19llNMiVO32L6IH0CpsJKRdDg3qhXKYddxi5NjBdsqW1T4MD7AnblyQ6IsxttPG4ZrM2J-_-dmPGdMVz5bZaDTaKKbVVuyWGwUg8aBbt4SteODVRoXfW6m_sy9oHNyufA3A9dXFp032Xgkm9Cb7_AJGozdwPaZvNw-N1AYN1GiZdmjpd9czpiooueSMuhSVhKbJ4yb7--cuVkMlbKOVuJf87SZ76honvvGD7jZJP5bH5_h1Slvfcm7A8G-tsMJpCwc6BGH3ANNYO6PaXNeN5I4gttrUrUQjNFQcsNINE8dfqu-axa554Cz66v3xpxSVTjjnkXMJTBvDd6I74Sz9fSIuvKwV3xMr7QaN4VLUwlshComwbVWFQ5JiHDujsbz1JwBmhOOEY-H--NMKpm0PVKTiVuOLsCMZ-aHhEmy7oz4D2hk8DcuPMrauxgPbxcB24W2XWtL0vcFKs7bmipT3qFF1MQuo784FZCZ4H1DOUsqJpyzbe5GuC1uUDpXjNiGcdCzpKmfCuY-icsYLplgJn1SUPd88li2iSq2cUMffmEAtUqiph7oNK9F0uG04ObuM6vq8nMCmQ3WLFGztx772AaWldE1UUlCa-pCuo_h1HHJXadEJu0XmNJX2kOvBfGce8o5_pdtnwzWg8VaYGpt1CGn3GWw6yOOe-1Qpj-azuU8J4_nWcbYlyrYCbFzKNZjo3HN9NOiwFn6aJC4aNAnavINIFzih5eNwYWmaSN2HkCFD7mwSuDxqy6O2QpgaqS629GD5QNjCg-WoGJd07aHRJlz_ELQeLR9ougm3KCRrh2TZv1YW6bmCl9BIVD4frCXvlU7M30S60h-k5LtWdCZeXU6vLl9fQXV8Th7KsquOZ0nr0xwkxyoHD6TVHvG60QdN5xHhrZUk3XBetQz_SyuVd2zpWud7JFRY7PQqnu4vVt1bkT39A7SX9YI)>
-- <img width="963" height="565" alt="image" src="https://github.com/user-attachments/assets/a3f70f53-9c64-46d7-ad2d-57f3a2d594bc" />
+  <img width="768" height="209" alt="image" src="https://github.com/user-attachments/assets/aed14c65-f3e8-43d2-a266-6e20da47f84d" />
+- 🔁 **Diagrama(s) de flujo (Actividad 1):**  <[Diagrama](https://www.mermaidchart.com/play?utm_source=mermaid_live_editor&utm_medium=toggle#pako:eNpdlM-O0zAQh19llNMiVO32L6IH0CpsJKRdDg3qhXKYddxi5NjBdsqW1T4MD7AnblyQ6IsxttPG4ZrM2J-_-dmPGdMVz5bZaDTaKKbVVuyWGwUg8aBbt4SteODVRoXfW6m_sy9oHNyufA3A9dXFp032Xgkm9Cb7_AJGozdwPaZvNw-N1AYN1GiZdmjpd9czpiooueSMuhSVhKbJ4yb7--cuVkMlbKOVuJf87SZ76honvvGD7jZJP5bH5_h1Slvfcm7A8G-tsMJpCwc6BGH3ANNYO6PaXNeN5I4gttrUrUQjNFQcsNINE8dfqu-axa554Cz66v3xpxSVTjjnkXMJTBvDd6I74Sz9fSIuvKwV3xMr7QaN4VLUwlshComwbVWFQ5JiHDujsbz1JwBmhOOEY-H--NMKpm0PVKTiVuOLsCMZ-aHhEmy7oz4D2hk8DcuPMrauxgPbxcB24W2XWtL0vcFKs7bmipT3qFF1MQuo784FZCZ4H1DOUsqJpyzbe5GuC1uUDpXjNiGcdCzpKmfCuY-icsYLplgJn1SUPd88li2iSq2cUMffmEAtUqiph7oNK9F0uG04ObuM6vq8nMCmQ3WLFGztx772AaWldE1UUlCa-pCuo_h1HHJXadEJu0XmNJX2kOvBfGce8o5_pdtnwzWg8VaYGpt1CGn3GWw6yOOe-1Qpj-azuU8J4_nWcbYlyrYCbFzKNZjo3HN9NOiwFn6aJC4aNAnavINIFzih5eNwYWmaSN2HkCFD7mwSuDxqy6O2QpgaqS629GD5QNjCg-WoGJd07aHRJlz_ELQeLR9ougm3KCRrh2TZv1YW6bmCl9BIVD4frCXvlU7M30S60h-k5LtWdCZeXU6vLl9fQXV8Th7KsquOZ0nr0xwkxyoHD6TVHvG60QdN5xHhrZUk3XBetQz_SyuVd2zpWud7JFRY7PQqnu4vVt1bkT39A7SX9YI)>
+  <img width="963" height="565" alt="image" src="https://github.com/user-attachments/assets/a3f70f53-9c64-46d7-ad2d-57f3a2d594bc" />
 
 - Diseño y prototipado (Actividad 2)
 
 
 ## 🧱 Prototipos de Baja Fidelidad 
-- 🌐 **Prototipo navegable (Figma):** <[WIREFRAME](https://wireframe.cc/pro/ppp/fa9342c16-989960)>
+- 🌐 **Prototipo (WireFrame):** <[WIREFRAME](https://wireframe.cc/pro/ppp/fa9342c16-989960)>
 Representan la estructura sin estilos visuales.
 
 - 🏠 Inicio  
