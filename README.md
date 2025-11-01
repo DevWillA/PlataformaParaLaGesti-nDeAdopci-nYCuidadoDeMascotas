@@ -16,7 +16,6 @@ Proyecto académico desarrollado para la materia Análisis y Diseño de Sistemas
 
 ## 🧱 Prototipos de Baja Fidelidad 
 - 🌐 **Prototipo (WireFrame):** <[WIREFRAME](https://wireframe.cc/pro/ppp/fa9342c16-989960)>
-Representan la estructura sin estilos visuales.
 - Capturas:
 - 🏠 Inicio  
   ![Wireframe Inicio](WireFrame/BajaFidelidad/wireframe_1_p_gina_de_inicio.png)
