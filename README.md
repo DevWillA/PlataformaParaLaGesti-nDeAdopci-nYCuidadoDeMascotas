@@ -22,7 +22,7 @@ Proyecto académico desarrollado para la materia Análisis y Diseño de Sistemas
 - 🐾 Catálogo de mascotas  
   ![Wireframe Catálogo](WireFrame/BajaFidelidad/wireframe_2_cat_logo_de_mascotas.png)
 - 📋 Ficha de mascota  
-  ![Wireframe Ficha](PWireFrame/BajaFidelidad/wireframe_3_ficha_de_mascota.png)
+  ![Wireframe Ficha](WireFrame/BajaFidelidad/wireframe_3_ficha_de_mascota.png)
 - 🔐 Login / Registro  
   ![Wireframe Login](WireFrame/BajaFidelidad/wireframe_4_registro___login.png)
 - ⚙️ Panel administrativo  
