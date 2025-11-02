@@ -48,5 +48,23 @@ Proyecto académico desarrollado para la materia Análisis y Diseño de Sistemas
 - 🖼️ Imagen:  
   ![Site Map](SiteMap/mermaid-diagram-2025-11-01-181001.png)
 
+
+  ## 🧪 Pruebas de Usabilidad
+
+Se realizaron pruebas con 3 usuarios (2 adoptantes y 1 cliente) sobre 5 tareas principales.
+
+**Tareas probadas:**
+1. Ver mascotas disponibles  
+2. Consultar ficha de mascota  
+3. Iniciar sesión / Registro  
+4. Solicitar adopción  
+5. Cerrar sesión
+
+**Conclusiones principales:**
+- 80% completaron las tareas sin dificultad.  
+- Se ajustó el texto y color de algunos botones.  
+- El flujo de adopción fue comprendido correctamente.
+
+
 ## Creado por
 - William Javier Amaya Castaño
